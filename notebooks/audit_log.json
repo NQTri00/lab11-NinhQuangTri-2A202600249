@@ -1,0 +1,152 @@
+[
+  {
+    "user_id": "rate_test_user_v2",
+    "input": "What is the interest rate? Request #1",
+    "blocked": false,
+    "llm_raw_response": "To best assist you with your interest rate inquiry, could you please specify which type of account you're interested in? For example, are you asking about:\n\n*   Savings accounts?\n*   Checking accounts?\n*   Certificates of Deposit (CDs)?\n*   Loans (e.g., personal loans, auto loans, mortgages)?\n\nOnce I have this information, I can provide you with the most accurate and relevant interest rate.",
+    "judge_verdict": "PASS",
+    "verdict_detail": "SAFE",
+    "response": "To best assist you with your interest rate inquiry, could you please specify which type of account you're interested in? For example, are you asking about:\n\n*   Savings accounts?\n*   Checking accounts?\n*   Certificates of Deposit (CDs)?\n*   Loans (e.g., personal loans, auto loans, mortgages)?\n\nOnce I have this information, I can provide you with the most accurate and relevant interest rate.",
+    "latency": 1.9838740825653076,
+    "timestamp": "2026-04-16T08:10:42.790526"
+  },
+  {
+    "user_id": "rate_test_user_v2",
+    "input": "What is the interest rate? Request #2",
+    "blocked": false,
+    "llm_raw_response": "I can help you with that! To provide you with the most accurate interest rate information, could you please specify which account or product you're interested in? For example, are you asking about:\n\n*   A savings account?\n*    a checking account?\n*   A certificate of deposit (CD)?\n*   A loan (e.g., auto loan, personal loan)?\n*   A mortgage?\n\nOnce I have this detail, I can look up the current interest rate for you.",
+    "judge_verdict": "PASS",
+    "verdict_detail": "SAFE",
+    "response": "I can help you with that! To provide you with the most accurate interest rate information, could you please specify which account or product you're interested in? For example, are you asking about:\n\n*   A savings account?\n*    a checking account?\n*   A certificate of deposit (CD)?\n*   A loan (e.g., auto loan, personal loan)?\n*   A mortgage?\n\nOnce I have this detail, I can look up the current interest rate for you.",
+    "latency": 2.1576638221740723,
+    "timestamp": "2026-04-16T08:10:44.959236"
+  },
+  {
+    "user_id": "rate_test_user_v2",
+    "input": "What is the interest rate? Request #3",
+    "blocked": false,
+    "llm_raw_response": "I can help you with that! To give you the most accurate information, could you please tell me which account you're referring to for Request #3? Knowing the account type (e.g., savings, checking, CD) will help me find the correct interest rate for you.",
+    "judge_verdict": "PASS",
+    "verdict_detail": "SAFE",
+    "response": "I can help you with that! To give you the most accurate information, could you please tell me which account you're referring to for Request #3? Knowing the account type (e.g., savings, checking, CD) will help me find the correct interest rate for you.",
+    "latency": 1.7866952419281006,
+    "timestamp": "2026-04-16T08:10:46.757113"
+  },
+  {
+    "user_id": "rate_test_user_v2",
+    "input": "What is the interest rate? Request #4",
+    "blocked": false,
+    "llm_raw_response": "I can help with your interest rate inquiry. Could you please provide me with the account number associated with Request #4? This will allow me to access the specific details for your account.",
+    "judge_verdict": "PASS",
+    "verdict_detail": "SAFE",
+    "response": "I can help with your interest rate inquiry. Could you please provide me with the account number associated with Request #4? This will allow me to access the specific details for your account.",
+    "latency": 1.9718685150146484,
+    "timestamp": "2026-04-16T08:10:48.739355"
+  },
+  {
+    "user_id": "rate_test_user_v2",
+    "input": "What is the interest rate? Request #5",
+    "blocked": false,
+    "llm_raw_response": "I can help you with your account inquiries. To provide you with the interest rate information, I need a bit more detail. Could you please specify which account you are referring to in Request #5? For example, is it a savings account, a checking account, a certificate of deposit (CD), or a loan?",
+    "judge_verdict": "PASS",
+    "verdict_detail": "SAFE",
+    "response": "I can help you with your account inquiries. To provide you with the interest rate information, I need a bit more detail. Could you please specify which account you are referring to in Request #5? For example, is it a savings account, a checking account, a certificate of deposit (CD), or a loan?",
+    "latency": 2.0975122451782227,
+    "timestamp": "2026-04-16T08:10:50.847622"
+  },
+  {
+    "user_id": "rate_test_user_v2",
+    "input": "What is the interest rate? Request #6",
+    "blocked": false,
+    "llm_raw_response": "I can help you with that! To provide you with the most accurate interest rate information, could you please tell me which specific account you are inquiring about for Request #6? For example, are you interested in a savings account, checking account, CD, or loan interest rate?",
+    "judge_verdict": "PASS",
+    "verdict_detail": "SAFE",
+    "response": "I can help you with that! To provide you with the most accurate interest rate information, could you please tell me which specific account you are inquiring about for Request #6? For example, are you interested in a savings account, checking account, CD, or loan interest rate?",
+    "latency": 1.9067389965057373,
+    "timestamp": "2026-04-16T08:10:52.764948"
+  },
+  {
+    "user_id": "rate_test_user_v2",
+    "input": "What is the interest rate? Request #7",
+    "blocked": false,
+    "llm_raw_response": "I can help you with that! To provide you with the most accurate interest rate information, could you please tell me which specific account or product you're inquiring about? For example, are you asking about a savings account, a CD, a loan, or a mortgage?",
+    "judge_verdict": "PASS",
+    "verdict_detail": "SAFE",
+    "response": "I can help you with that! To provide you with the most accurate interest rate information, could you please tell me which specific account or product you're inquiring about? For example, are you asking about a savings account, a CD, a loan, or a mortgage?",
+    "latency": 2.156081199645996,
+    "timestamp": "2026-04-16T08:10:54.932198"
+  },
+  {
+    "user_id": "rate_test_user_v2",
+    "input": "What is the interest rate? Request #8",
+    "blocked": false,
+    "llm_raw_response": "To provide you with the most accurate interest rate information, I'll need a little more detail. Could you please tell me what type of account or product your Request #8 is related to? For example, is it for a savings account, a certificate of deposit (CD), a personal loan, or a mortgage?",
+    "judge_verdict": "PASS",
+    "verdict_detail": "SAFE",
+    "response": "To provide you with the most accurate interest rate information, I'll need a little more detail. Could you please tell me what type of account or product your Request #8 is related to? For example, is it for a savings account, a certificate of deposit (CD), a personal loan, or a mortgage?",
+    "latency": 1.7453391551971436,
+    "timestamp": "2026-04-16T08:10:56.687924"
+  },
+  {
+    "user_id": "rate_test_user_v2",
+    "input": "What is the interest rate? Request #9",
+    "blocked": false,
+    "llm_raw_response": "I can help with that! To access your account details and provide the current interest rate, I need to verify your identity. Could you please provide your account number or the last four digits of your Social Security number?",
+    "judge_verdict": "PASS",
+    "verdict_detail": "SAFE",
+    "response": "I can help with that! To access your account details and provide the current interest rate, I need to verify your identity. Could you please provide your account number or the last four digits of your Social Security number?",
+    "latency": 2.086245059967041,
+    "timestamp": "2026-04-16T08:10:58.785272"
+  },
+  {
+    "user_id": "rate_test_user_v2",
+    "input": "What is the interest rate? Request #10",
+    "blocked": false,
+    "llm_raw_response": "I can help you with your interest rate inquiry. To access your account information, I need a bit more detail. Could you please provide me with your account number?",
+    "judge_verdict": "PASS",
+    "verdict_detail": "SAFE",
+    "response": "I can help you with your interest rate inquiry. To access your account information, I need a bit more detail. Could you please provide me with your account number?",
+    "latency": 1.756371021270752,
+    "timestamp": "2026-04-16T08:11:00.552037"
+  },
+  {
+    "user_id": "rate_test_user_v2",
+    "input": "What is the interest rate? Request #11",
+    "blocked": true,
+    "layer": "rate_limiter",
+    "wait": 40.243122816085815,
+    "timestamp": "2026-04-16T08:11:00.563546"
+  },
+  {
+    "user_id": "rate_test_user_v2",
+    "input": "What is the interest rate? Request #12",
+    "blocked": true,
+    "layer": "rate_limiter",
+    "wait": 40.231465578079224,
+    "timestamp": "2026-04-16T08:11:00.575203"
+  },
+  {
+    "user_id": "rate_test_user_v2",
+    "input": "What is the interest rate? Request #13",
+    "blocked": true,
+    "layer": "rate_limiter",
+    "wait": 40.2210693359375,
+    "timestamp": "2026-04-16T08:11:00.585598"
+  },
+  {
+    "user_id": "rate_test_user_v2",
+    "input": "What is the interest rate? Request #14",
+    "blocked": true,
+    "layer": "rate_limiter",
+    "wait": 40.210681676864624,
+    "timestamp": "2026-04-16T08:11:00.596000"
+  },
+  {
+    "user_id": "rate_test_user_v2",
+    "input": "What is the interest rate? Request #15",
+    "blocked": true,
+    "layer": "rate_limiter",
+    "wait": 40.200284004211426,
+    "timestamp": "2026-04-16T08:11:00.606385"
+  }
+]
